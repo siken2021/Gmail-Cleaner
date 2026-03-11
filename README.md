@@ -39,6 +39,7 @@ The tool only reads sender, subject, and date. **Message body is never accessed.
 ---
 
 ## 🗂️ Dashboard tabs
+<img width="1016" height="764" alt="image" src="https://github.com/user-attachments/assets/3eb6b93f-c091-4e4c-b3ca-07e619ec970b" />
 
 **🏠 Home**
 Main screen with your inbox summary and the full senders table. You can search in real time, quick-filter by count (+100, +50, +20, spam only), select senders and delete their emails, preview subjects, or export a PDF report.
